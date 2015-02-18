@@ -82,7 +82,7 @@ We fix all bugs reported to us and try to implement all features requested by cu
 ##Contact Us
 
 + **Website:** [www.aspose.com](http://www.aspose.com)
-+ **Product Home:** [Aspose.Words for Android](http://www.aspose.com/android/words-api.aspx)
++ **Product Home:** [Aspose.Words for Android](http://www.aspose.com/android/word-component.aspx)
 + **Download:** [Download Aspose.Words for Android](http://www.aspose.com/community/files/74/android-apis/aspose.words-for-android/category1430.aspx)
 + **Documentation:** [Aspose.Words for Android Documentation](http://www.aspose.com/docs/display/wordsandroid/Home)
 + **Forum:** [Aspose.Words for Android Forum](http://www.aspose.com/community/forums/aspose.words-product-family/75/showforum.aspx)
