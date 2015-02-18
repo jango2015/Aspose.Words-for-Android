@@ -1,6 +1,6 @@
 #Aspose.Words for Android Examples Repository
 
-This package contains Java Example Projects for [Aspose.Words for Android](http://www.aspose.com/android/words-api.aspx).
+This package contains Java Example Projects for [Aspose.Words for Android](http://www.aspose.com/android/word-component.aspx).
 
 Aspose.Words for Android is a Java class library that enables your applications to perform a great range of document processing tasks. Aspose.Words supports DOC, DOCX, RTF, HTML, OpenDocument, PDF, XPS, EPUB and other formats. With Aspose.Words you can generate, modify, convert and render documents from your mobile device.
 
