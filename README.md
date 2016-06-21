@@ -6,7 +6,7 @@ This repository contains [Examples](Examples) for [Aspose.Words for Android](htt
 <p align="center">
 
   <a title="Download complete Aspose.Words for Android source code" href="https://github.com/aspose-words/Aspose.Words-for-Android/archive/master.zip">
-	<img src="https://raw.github.com/AsposeExamples/android-examples-dashboard/master/images/downloadZip-Button-Large.png" />
+	<img src="http://i.imgur.com/hwNhrGZ.png" />
   </a>
 </p>
 
